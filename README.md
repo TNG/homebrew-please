@@ -5,7 +5,7 @@ A Homebrew Tap for the AI helper script to create CLI commands.
 ## Usage
 
 ```bash
-brew tap TNG/please-tap
+brew tap TNG/please
 brew install please
 ```
 
