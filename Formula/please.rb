@@ -1,9 +1,9 @@
 class Please < Formula
   desc "An AI helper script to create CLI commands"
   homepage "https://tng.github.io/please-cli/"
-  version "0.0.10"
-  url "https://github.com/TNG/please-cli/archive/.zip"
-  sha256 "96c5063faf2c4983903e6051c966c9319c066af5318cbb81bb1346b4b2a1da9e"
+  version "0.0.11"
+  url "https://github.com/TNG/please-cli/archive/refs/tags/v0.0.11.zip"
+  sha256 "2d2b17085c0d8f273a3649bf28ee75750d2970b2f1e09c875ad22658c4e0bf94"
 
   depends_on "jq"
 
